@@ -1,0 +1,4 @@
+
+This is the initial notes about the cosul installation.
+
+
